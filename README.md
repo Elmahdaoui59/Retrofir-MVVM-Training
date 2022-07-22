@@ -25,3 +25,5 @@ https://developer.android.com/codelabs/basic-android-kotlin-training-getting-dat
  - Livedata
  - ViewBinding
  - Callback
+ - 
+![ezgif-5-1b9e491d06](https://user-images.githubusercontent.com/107696788/180470303-76a1dbd5-6d13-442f-a2bd-c2914fc95812.gif)
