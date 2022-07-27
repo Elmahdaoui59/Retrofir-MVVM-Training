@@ -5,7 +5,7 @@ import retrofit2.Call
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
-//to use it just call >>>> ""PostClient.postInterface"
+
 
 object PostsClient{
     private const val BASE_URL: String = "https://jsonplaceholder.typicode.com/"
